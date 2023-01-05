@@ -1,6 +1,6 @@
 {
   "name": "tdd-by-example",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "project to work through Kent Beck's TDD by Example",
   "main": "index.ts",
   "author": "Rob Seaver <rob.seaver@gmail.com>",
